@@ -8,27 +8,33 @@ category: Diary
 <!-- more -->
 
 
-# 1
-
-![image](https://raw.githubusercontent.com/Suhkurr/suhkurr.github.io/master/assets/img/1.png))
-
-#### 🎦电影名称: Good Luck to You, Leo Grande
+<center>1</center>
 
 
-#### 👉国家地区: 英国
+
+<img src="https://raw.githubusercontent.com/Suhkurr/suhkurr.github.io/master/assets/img/1.png" alt="image" style="zoom:25%;" />
 
 
-#### 📆观看日期: 2022/07/10
+
+##### 🎬电影名称: Good Luck to You, Leo Grande
 
 
-#### 🎞题材类别: 剧情、喜剧
+
+##### 👉国家地区: 英国
 
 
-#### 💯个人评分:  ⭐⭐⭐⭐
+
+##### 📆观看日期: 2022/07/10
 
 
-#### 留言：
-......
+
+##### 🎞题材类别: 剧情、喜剧
 
 
-_Edited By [Suhkur - 二次元]
+
+##### 💯个人评分:  ⭐⭐⭐⭐
+
+
+
+##### 留言：
+
