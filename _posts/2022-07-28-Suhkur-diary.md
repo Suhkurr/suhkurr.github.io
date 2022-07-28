@@ -8,19 +8,14 @@ category: Diary
 <!-- more -->
 
 
-<center>1</center>
+# 1
 
 
 
 <img src="https://raw.githubusercontent.com/Suhkurr/suhkurr.github.io/master/assets/img/1.png" alt="image" style="zoom:25%;" />
 
 
-
 ##### 🎬电影名称: Good Luck to You, Leo Grande
-
-
-
-##### 👉国家地区: 英国
 
 
 
@@ -28,7 +23,7 @@ category: Diary
 
 
 
-##### 🎞题材类别: 剧情、喜剧
+##### 🎞题材类别: 剧情；喜剧
 
 
 
