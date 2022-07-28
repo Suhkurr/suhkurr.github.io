@@ -8,6 +8,7 @@ Suhkur is Hentai8's girlfriend!
 <!-- more -->
 
 123123
+![image-20220728202810504](../asset/image-20220728202810504.png)
 
 
 _Edited By [Suhkur - 二次元](https://www.bilibili.com/)_
