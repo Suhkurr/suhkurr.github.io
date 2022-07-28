@@ -3,12 +3,13 @@ title: Who is hentai8?!!
 category: Love❤
 ---
 
-Suhkur is Hentai8's girlfriend! 
+Hentai8 is Suhkur's girlfriend! 
 
 <!-- more -->
 
-123123
-![image-20220728202810504](https://raw.githubusercontent.com/Suhkurr/suhkurr.github.io/master/assets/img/image-20220728202810504.png)
+# 不看错亿
+
+<img src="https://raw.githubusercontent.com/Suhkurr/suhkurr.github.io/master/assets/img/0728lyl.jpg" alt="image" style="zoom:50%;" />
 
 
-_Edited By [Suhkur - 二次元](https://www.bilibili.com/)_
+_Edited By [Suhkur - WB](https://m.weibo.cn/5202135728/4796371708674052)_
