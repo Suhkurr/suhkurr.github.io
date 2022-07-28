@@ -4,3 +4,4 @@ _site/
 garth-jekyll-theme-*.gem
 Gemfile.lock
 **/Gemfile.lock
+.jekyll-cache/
