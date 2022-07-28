@@ -10,7 +10,7 @@ category: Diary
 
 # 1
 
-![image](https://github.com/Suhkurr/suhkurr.github.io/blob/master/assets/img/1.png)
+![image](https://raw.githubusercontent.com/Suhkurr/suhkurr.github.io/master/assets/img/1.png))
 
 #### 🎦电影名称: Good Luck to You, Leo Grande
 
