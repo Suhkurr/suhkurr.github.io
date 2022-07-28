@@ -8,7 +8,7 @@ category: Diary
 <!-- more -->
 
 
-<center>1</center>
+# 1
 
 ![image](https://github.com/Suhkurr/suhkurr.github.io/blob/master/assets/img/1.png)
 
