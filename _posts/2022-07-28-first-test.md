@@ -3,7 +3,7 @@ title: Who is hentai8?!!
 category: Love❤
 ---
 
-Hentai8 is Suhkur's girlfriend! 
+Hentai8 is Suhkur's boyfriend! 
 
 <!-- more -->
 
