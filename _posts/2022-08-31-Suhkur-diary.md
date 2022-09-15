@@ -3,6 +3,11 @@ title: Aug-Journal
 category: Diary
 ---
 
+过分充实的八月~
+
+<!-- more -->
+
+
 <img src="https://raw.githubusercontent.com/Suhkurr/suhkurr.github.io/master/assets/img/Monthly.jpg" alt="image" style="zoom:50%;" />
 
 （假装是8.31上传的）
